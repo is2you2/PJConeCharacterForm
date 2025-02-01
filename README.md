@@ -31,7 +31,7 @@
 # 필수 애니메이션 키
 idle  
 walk_forward  
-ropejump  
+jump  
 
 # LICENSES
 CC BY 4.0, MIT
